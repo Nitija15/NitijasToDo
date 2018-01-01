@@ -1,0 +1,6 @@
+D:\Nitija15\TryGitHub\TryGitHub\bin\Debug\TryGitHub.exe.config
+D:\Nitija15\TryGitHub\TryGitHub\bin\Debug\TryGitHub.exe
+D:\Nitija15\TryGitHub\TryGitHub\bin\Debug\TryGitHub.pdb
+D:\Nitija15\TryGitHub\TryGitHub\obj\Debug\TryGitHub.csprojResolveAssemblyReference.cache
+D:\Nitija15\TryGitHub\TryGitHub\obj\Debug\TryGitHub.exe
+D:\Nitija15\TryGitHub\TryGitHub\obj\Debug\TryGitHub.pdb
